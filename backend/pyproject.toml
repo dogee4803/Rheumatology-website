@@ -18,6 +18,7 @@ dependencies = [
     "ruff",
     "pytest",
     "pytest-asyncio",
+    "psycopg2-binary>=2.9.13",
 ]
 
 [project.scripts]
